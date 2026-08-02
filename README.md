@@ -20,10 +20,14 @@ OWASP Juice Shop — це один із найкращих сучасних ін
 Має з'явитися вікно з повідомленням, після чого челендж буде зараховано.
 <img width="1627" height="482" alt="image" src="https://github.com/user-attachments/assets/b5132ba9-b608-4495-a9c8-bb967aef1caa" />
 
+За таким самим принципом виконання додатково робимо відправку пейлоада:
 <img width="1765" height="559" alt="image" src="https://github.com/user-attachments/assets/23bc9da8-57c9-414b-9e0e-6cd79d6f06ca" />
 
+#### Витік конфіденційних даних (Sensitive Data Exposure)
+Для виконання цього завдання потрібно знайти файл, який не має бути публічним. Спочатку шукаємо відкриті директорії, але отримуємо помилку з довжиною 9903:
 <img width="988" height="327" alt="image" src="https://github.com/user-attachments/assets/2e257fbb-5ed7-4693-8ec7-2138ad16b522" />
 
+Вносимо зміни, які нам рекомендовано, та знову запускаємо сканування:
 <img width="1052" height="490" alt="image" src="https://github.com/user-attachments/assets/25ef4ef5-ab07-4396-8929-c8822e9c7125" />
 
 <img width="1465" height="454" alt="image" src="https://github.com/user-attachments/assets/5e6a5044-3b8b-435f-84af-87ab6f7c16d7" />
@@ -51,6 +55,7 @@ OWASP Juice Shop — це один із найкращих сучасних ін
 <img width="503" height="163" alt="image" src="https://github.com/user-attachments/assets/3e79f5a5-cbe7-4015-b21f-7c7701d16625" />
 
 
+<img width="1871" height="231" alt="image" src="https://github.com/user-attachments/assets/6602b7b5-3f9a-4fba-b4eb-d1633bf8ecbf" />
 
 
 
